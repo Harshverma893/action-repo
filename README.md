@@ -37,7 +37,7 @@ A repository designed to perform Git operations that trigger **GitHub webhook ev
 
 - GitHub account  
 - Git installed locally  
-- Access to [`webhook-repo`](https://github.com/your-username/webhook-repo) Flask app  
+- Access to [`webhook-repo`](https://github.com/Harshverma893/webhook-repo) Flask app  
 - A tool like **ngrok** to expose the local Flask server  
 - MongoDB instance for event storage  
 
@@ -46,5 +46,5 @@ A repository designed to perform Git operations that trigger **GitHub webhook ev
 ### 📁 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/action-repo.git
+git clone https://github.com/Harshverma893/action-repo.git
 cd action-repo
